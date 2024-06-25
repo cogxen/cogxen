@@ -1,0 +1,14 @@
+{
+  "buttons": [
+    {
+      "link_to": "https://github.com/cogxen",
+      "text": "github.com",
+      "icon": "Github"
+    },
+    {
+      "link_to": "https://learn.cogxen.quest",
+      "text": "learn.cogxen.quest",
+      "icon": "Globe"
+    }
+  ]
+}
